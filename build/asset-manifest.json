@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/Charissa-Hollister-Portfolio/static/css/main.81c2cb45.chunk.css",
+    "main.js": "/Charissa-Hollister-Portfolio/static/js/main.b03906ed.chunk.js",
+    "main.js.map": "/Charissa-Hollister-Portfolio/static/js/main.b03906ed.chunk.js.map",
+    "runtime-main.js": "/Charissa-Hollister-Portfolio/static/js/runtime-main.b8dba99d.js",
+    "runtime-main.js.map": "/Charissa-Hollister-Portfolio/static/js/runtime-main.b8dba99d.js.map",
+    "static/js/2.c4226d8b.chunk.js": "/Charissa-Hollister-Portfolio/static/js/2.c4226d8b.chunk.js",
+    "static/js/2.c4226d8b.chunk.js.map": "/Charissa-Hollister-Portfolio/static/js/2.c4226d8b.chunk.js.map",
+    "static/js/3.e65f24d5.chunk.js": "/Charissa-Hollister-Portfolio/static/js/3.e65f24d5.chunk.js",
+    "static/js/3.e65f24d5.chunk.js.map": "/Charissa-Hollister-Portfolio/static/js/3.e65f24d5.chunk.js.map",
+    "index.html": "/Charissa-Hollister-Portfolio/index.html",
+    "static/css/main.81c2cb45.chunk.css.map": "/Charissa-Hollister-Portfolio/static/css/main.81c2cb45.chunk.css.map",
+    "static/js/2.c4226d8b.chunk.js.LICENSE.txt": "/Charissa-Hollister-Portfolio/static/js/2.c4226d8b.chunk.js.LICENSE.txt",
+    "static/media/0.jpg": "/Charissa-Hollister-Portfolio/static/media/0.cbf237dd.jpg",
+    "static/media/1.jpg": "/Charissa-Hollister-Portfolio/static/media/1.5f4506cb.jpg",
+    "static/media/10.jpg": "/Charissa-Hollister-Portfolio/static/media/10.4e178a13.jpg",
+    "static/media/11.jpg": "/Charissa-Hollister-Portfolio/static/media/11.82046f0f.jpg",
+    "static/media/12.jpg": "/Charissa-Hollister-Portfolio/static/media/12.135143aa.jpg",
+    "static/media/2.jpg": "/Charissa-Hollister-Portfolio/static/media/2.3c4524a9.jpg",
+    "static/media/3.jpg": "/Charissa-Hollister-Portfolio/static/media/3.5a74e2ed.jpg",
+    "static/media/4.jpg": "/Charissa-Hollister-Portfolio/static/media/4.2acb4afe.jpg",
+    "static/media/5.jpg": "/Charissa-Hollister-Portfolio/static/media/5.8a7958fd.jpg",
+    "static/media/6.jpg": "/Charissa-Hollister-Portfolio/static/media/6.a2680513.jpg",
+    "static/media/7.jpg": "/Charissa-Hollister-Portfolio/static/media/7.97db8d97.jpg",
+    "static/media/8.jpg": "/Charissa-Hollister-Portfolio/static/media/8.507ca5ad.jpg",
+    "static/media/9.jpg": "/Charissa-Hollister-Portfolio/static/media/9.796c8e6c.jpg",
+    "static/media/avatar-waving.d42ffc92.png": "/Charissa-Hollister-Portfolio/static/media/avatar-waving.d42ffc92.png",
+    "static/media/avatar-working.532ce9b3.png": "/Charissa-Hollister-Portfolio/static/media/avatar-working.532ce9b3.png",
+    "static/media/cover-image.458be863.webp": "/Charissa-Hollister-Portfolio/static/media/cover-image.458be863.webp",
+    "static/media/mindsettiger.768367bd.jpg": "/Charissa-Hollister-Portfolio/static/media/mindsettiger.768367bd.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b8dba99d.js",
+    "static/js/2.c4226d8b.chunk.js",
+    "static/css/main.81c2cb45.chunk.css",
+    "static/js/main.b03906ed.chunk.js"
+  ]
+}
