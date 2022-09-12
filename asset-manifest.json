@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Charissa-Hollister-Web-Portfolio/static/css/main.81c2cb45.chunk.css",
-    "main.js": "/Charissa-Hollister-Web-Portfolio/static/js/main.a63429d1.chunk.js",
-    "main.js.map": "/Charissa-Hollister-Web-Portfolio/static/js/main.a63429d1.chunk.js.map",
+    "main.js": "/Charissa-Hollister-Web-Portfolio/static/js/main.7c232d58.chunk.js",
+    "main.js.map": "/Charissa-Hollister-Web-Portfolio/static/js/main.7c232d58.chunk.js.map",
     "runtime-main.js": "/Charissa-Hollister-Web-Portfolio/static/js/runtime-main.71fefcd1.js",
     "runtime-main.js.map": "/Charissa-Hollister-Web-Portfolio/static/js/runtime-main.71fefcd1.js.map",
     "static/js/2.c4226d8b.chunk.js": "/Charissa-Hollister-Web-Portfolio/static/js/2.c4226d8b.chunk.js",
@@ -34,6 +34,6 @@
     "static/js/runtime-main.71fefcd1.js",
     "static/js/2.c4226d8b.chunk.js",
     "static/css/main.81c2cb45.chunk.css",
-    "static/js/main.a63429d1.chunk.js"
+    "static/js/main.7c232d58.chunk.js"
   ]
 }
